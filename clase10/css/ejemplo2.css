@@ -1,0 +1,20 @@
+#d1{
+    color: orangered;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-width: 3px;
+    margin: 20px;
+}
+#d2{
+    color: blueviolet;
+    border: 4px solid burlywood;
+    margin: 20px;
+}
+#d3{
+ color: blue ;
+ border-top: 4px solid orangered;
+ border-bottom:5px solid blueviolet ;
+ border-right: 5px  dotted blueviolet;
+ border-left: 4px dotted orangered;
+ margin: 20px;
+}
